@@ -1,32 +1,20 @@
 {
-  "tasks": [
-    {
-      "id": 0,
-      "done": true,
-      "text": "faire les courses",
-      "tag": "life"
-    },
+  "topics": [
     {
       "id": 1,
-      "done": false,
-      "text": "faire le projet withings",
-      "important":true,
-      "tag": "productivity"
+      "title": "to learn angular",
+      "completed": false
     },
     {
       "id": 2,
-      "done": false,
-      "text": "faire le rapport de management des risques",
-      "tag": "study"
-    }
-    ,
+      "title": "to learn french",
+      "completed": true
+    },
     {
       "id": 3,
-      "done": false,
-      "text": "uploader photo de Nathalie",
-      "tag": "art"
+      "title": "to learn some",
+      "completed": false
     }
   ]
 }
-
 

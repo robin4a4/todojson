@@ -1,5 +1,5 @@
 {
-  tasks:[
+  "tasks":[
     { "id": 0, "done": true, "text": "faire les courses", "tag": "life" },
     { "id": 1, "done": false, "text": "faire le projet withings", "important":true, "tag":"productivity" },
     { "id": 2, "done": false, "text": "faire le rapport de management des risques", "tag":"study" },

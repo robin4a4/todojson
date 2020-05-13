@@ -1,20 +1,30 @@
 {
-  "topics": [
-    {
-      "id": 1,
-      "title": "to learn angular",
-      "completed": false
-    },
-    {
-      "id": 2,
-      "title": "to learn french",
-      "completed": true
-    },
-    {
-      "id": 3,
-      "title": "to learn some",
-      "completed": false
-    }
-  ]
-}
-
+    "tasks": [
+      {
+        "id": 0,
+        "done": true,
+        "text": "faire les courses",
+        "tag": "life"
+      },
+      {
+        "id": 1,
+        "done": false,
+        "text": "faire le projet withings",
+        "important":true,
+        "tag": "productivity"
+      },
+      {
+        "id": 2,
+        "done": false,
+        "text": "faire le rapport de management des risques",
+        "tag": "study"
+      }
+      ,
+      {
+        "id": 3,
+        "done": false,
+        "text": "uploader photo de Nathalie",
+        "tag": "art"
+      }
+    ]
+  }

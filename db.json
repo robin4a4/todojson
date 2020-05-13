@@ -3,27 +3,27 @@
       {
         "id": 0,
         "done": true,
-        "text": "faire les courses",
+        "text": "Faire les courses",
         "tag": "courrant"
       },
       {
         "id": 1,
         "done": false,
-        "text": "faire le projet withings",
+        "text": "Réaliser le projet withings",
         "important":true,
         "tag": "travail"
       },
       {
         "id": 2,
         "done": false,
-        "text": "faire le rapport de management des risques",
+        "text": "Faire le rapport de management des risques",
         "tag": "etudes"
       }
       ,
       {
         "id": 3,
         "done": false,
-        "text": "uploader photo de Nathalie",
+        "text": "Uploader photo de Nathalie",
         "tag": "art"
       }
     ]
